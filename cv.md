@@ -1,11 +1,11 @@
 # Kapustianov Kostiantyn
----
+
 ## About Me 
 
 I am a 19 year old self-taught trying to become a frontend developer. Gaps in knowledge I compensate with my perseverance and desire to become better.
 <br>
 
---- 
+
 
 ## Skills
 * CSS, HTML
@@ -13,7 +13,7 @@ I am a 19 year old self-taught trying to become a frontend developer. Gaps in kn
 * JavaScript basics
 * Blender basics
 
----
+
 
 ## Code Example
 _Make a simple function called greet that returns the most-famous "hello world!"._
@@ -24,7 +24,7 @@ function greet (){
 }
 ```
 
----
+
 
 ## Languages
 
@@ -32,7 +32,9 @@ function greet (){
 * Russian — native
 * English — intermediate
 * Polish — begginer
----
+  
+
+
 ## Contact information:
 * Telegram: conny_Furst
 *  Discord: conny_fürst#4877
