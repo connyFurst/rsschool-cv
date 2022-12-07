@@ -15,7 +15,7 @@ I am a 19 year old self-taught trying to become a frontend developer. Gaps in kn
 
 ---
 
-## Code Examples
+## Code Example
 _Make a simple function called greet that returns the most-famous "hello world!"._
 <br>
  ```javascript
@@ -33,3 +33,8 @@ function greet (){
 * English — intermediate
 * Polish — begginer
 ---
+## Contact information:
+* Telegram: conny_Furst
+*  Discord: conny_fürst#4877
+*  GitHub: [ConnyFurst](https://github.com/connyFurst)
+*  E-mail: connyfurst1@gmail.com
