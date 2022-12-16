@@ -1,0 +1,125 @@
+ @font-face {
+    font-family: 'Manrope';
+    src: url(fonts/Manrope-Regular.ttf);
+    font-weight: 300;
+ }
+ 
+ @font-face {
+    font-family: 'Manrope';
+    src: url(fonts/Manrope-ExtraBold.ttf);
+    font-weight: 800;
+ }
+ 
+ body {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 300;
+  }
+ 
+
+
+ * {
+    background-color: #1B1B1B;
+  }
+
+
+  .header-container {
+    width: 456px;
+    height: 885px;
+    border-right: 1px solid #C80002;
+  }
+
+  .header-photo {
+    margin-top: 56px;
+    margin-left: 122px;
+    margin-right: 111px;
+    margin-bottom: 26px;
+  }
+
+  .header-h1 {
+    margin-left: 52px;
+    margin-right: 41px;
+    margin-bottom: 10px;
+    font-weight: 800;
+    line-height: 55px;
+    font-size: 26px;
+    text-align: center;
+    color: #C80002;
+  }
+
+  .header-text {
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-left: 63px;
+    margin-right: 25px;
+    margin-top: 45px;
+    font-weight: 300;
+  }
+
+  .header-contact {
+    margin-top: 57px;
+    margin-left: 98px;
+    margin-right: 80px;
+  }
+
+  .discord {
+    width: 229px;
+    height: 30px;
+    display: flex;
+    background-color: #C80002;
+    margin-bottom: 30px;
+  }
+
+  .discord>span {
+    background-color: #C80002;
+    padding-right: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+  }
+
+  .discord>img {
+    background-color: #C80002;
+    padding: 5px 15px;
+  }
+
+  .telegram {
+    width: 175px;
+    height: 30px;
+    display: flex;
+    background-color: #C80002;
+    margin-bottom: 30px;
+  }
+
+  .telegram>span {
+    background-color: #C80002;
+    padding-right: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+  }
+
+  .telegram>img {
+    background-color: #C80002;
+    padding: 5px 15px;
+  }
+
+  .email {
+    width: 278px;
+    height: 30px;
+    display: flex;
+    background-color: #C80002;
+    margin-bottom: 30px;
+  }
+
+  .email>span {
+    background-color: #C80002;
+    padding-right: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+  }
+
+  .email>img {
+    background-color: #C80002;
+    padding: 5px 15px;
+  }
